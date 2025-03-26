@@ -12,6 +12,6 @@ fitur program :
 - menampilkan kode booking random untuk tiap pesaanan
 
 library yang digunakan
-random : untuk membuat kode booking unik
-datetime : untuk menangani input jadwal keberangkatan
+- random : untuk membuat kode booking unik
+- datetime : untuk menangani input jadwal keberangkatan
 
